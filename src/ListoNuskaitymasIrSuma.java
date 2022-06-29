@@ -23,7 +23,7 @@ public class ListoNuskaitymasIrSuma {
     public static double listoSuma(ArrayList<Double> listas){
         double suma = 0;
         for(int i = 0; i < listas.size(); i++){
-            suma = listas.get(i);
+            suma += listas.get(i);
         }
         return suma;
     }

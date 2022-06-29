@@ -36,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.listoNuskaitymasSuWhile">
+  <component name="RunManager" selected="Application.ListoNuskaitymasIrSuma">
     <configuration name="ListoNuskaitymasIrSuma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListoNuskaitymasIrSuma" />
       <module name="listaiPamoka" />
@@ -60,8 +60,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.listoNuskaitymasSuWhile" />
         <item itemvalue="Application.ListoNuskaitymasIrSuma" />
+        <item itemvalue="Application.listoNuskaitymasSuWhile" />
         <item itemvalue="Application.pvzPirmas" />
       </list>
     </recent_temporary>
