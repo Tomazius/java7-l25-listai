@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="577f60b5-7528-4b8b-936e-dda535b52a3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ListoNuskaitymasIrSuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listoNuskaitymasSuWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pvzPirmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pvzPirmas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.listoNuskaitymasSuWhile">
+    <configuration name="ListoNuskaitymasIrSuma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListoNuskaitymasIrSuma" />
+      <module name="listaiPamoka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listoNuskaitymasSuWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="listoNuskaitymasSuWhile" />
+      <module name="listaiPamoka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pvzPirmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pvzPirmas" />
       <module name="listaiPamoka" />
@@ -45,6 +60,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.listoNuskaitymasSuWhile" />
+        <item itemvalue="Application.ListoNuskaitymasIrSuma" />
         <item itemvalue="Application.pvzPirmas" />
       </list>
     </recent_temporary>
